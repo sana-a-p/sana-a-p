@@ -19,6 +19,5 @@ A final-year CS student passionate about AI, web dev, and problem-solving 💡
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanaap&theme=tokyo-night)
 
 
-
 ## 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sana-a-p-601a62257)
