@@ -14,6 +14,10 @@ A final-year CS student passionate about AI, web dev, and problem-solving 💡
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+## 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sanaap&theme=tokyo-night)
+
 
 ## 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sana-a-p-601a62257)
