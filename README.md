@@ -1,16 +1,17 @@
 ## Hi there 👋
+# 👋 Hi, I'm Sana!
+A final-year CS student passionate about AI, web dev, and problem-solving 💡
 
-<!--
-**sana-a-p/sana-a-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: AI-powered travel planner ✈️
+- 🌱 Learning: Supabase, Gemini API, Edge Functions, c++, flutter
+- 👨‍💻 Most used techs: Python,c, HTML/CSS
+- 💼 Preparing for: Placements
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Sana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanaap&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Top Skills
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanaap&layout=compact)
+
+## 🔗 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sana-a-p-601a62257)
