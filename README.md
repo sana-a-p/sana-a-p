@@ -7,10 +7,13 @@ A final-year CS student passionate about AI, web dev, and problem-solving 💡
 - 👨‍💻 Most used techs: Python,c, HTML/CSS
 - 💼 Preparing for: Placements
 
-## 📈 GitHub Activity Graph
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanaap&theme=tokyonight)
+
+## 📈 Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sanaap&theme=tokyo-night)
-
 
 ## 🚀 Top Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
