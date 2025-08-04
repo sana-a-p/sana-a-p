@@ -20,7 +20,7 @@ A final-year CS student passionate about AI, web dev, and problem-solving 💡
 ## 📈 GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sana-a-p&theme=tokyo-night)
 
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanaap&theme=tokyonight)](https://github.com/sanaap)
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sana-a-p&theme=tokyonight)](https://github.com/sana-a-p)
 
 
 ## 🔗 Let's Connect
