@@ -15,7 +15,7 @@ A final-year CS student passionate about AI, web dev, and problem-solving 💡
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📈 GitHub Stats
-![Sana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanaap&show_icons=true&count_private=true&theme=tokyonight)
+![Sana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sana-a-p&show_icons=true&count_private=true&theme=tokyonight)
 
 
 ## 🔗 Let's Connect
