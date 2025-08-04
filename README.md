@@ -14,9 +14,8 @@ A final-year CS student passionate about AI, web dev, and problem-solving 💡
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📈 GitHub Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanaap&theme=tokyo-night)
+## 📈 GitHub Stats
+![Sana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanaap&show_icons=true&count_private=true&theme=tokyonight)
 
 
 ## 🔗 Let's Connect
